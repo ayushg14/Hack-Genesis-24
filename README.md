@@ -1,5 +1,5 @@
 # Hack Genesis'24
-Main Repository for the hackathon, Hack Genesis'24. 
+Main Repository for the hackathon, Hack Genesis'24. <br>
 Contains:
 - Website
 - Discord Bot
