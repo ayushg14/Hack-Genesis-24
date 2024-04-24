@@ -1,5 +1,8 @@
-# All in One Hack Genesis'24
-Contains Both the website and the Discord bot code for the hackathon, Hack Genesis'24
+# Hack Genesis'24
+Main Repository for the hackathon, Hack Genesis'24. 
+Contains:
+- Website
+- Discord Bot
 
 ## Website
 [Hack Genesis'24](https://hack-genesis-24.vercel.app/)
